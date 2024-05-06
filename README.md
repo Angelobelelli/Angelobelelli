@@ -3,7 +3,7 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AC32EB&size=35&center=true&width=1000&lines=Olá,+Eu+sou+a+Angelo+Belelli;Estou+no+1º+período+de+DDS+WEB;Seja+bem+vindo(a)!!!+:%29)](https://git.io/typing-svg)
-<div>
+<div align="center">
     ​​
     <a href="https://github.com/Angelobelelli/github-readme-stats">
       <img height= "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Angelobelelli&theme=transparent&rank_icon=github" />
