@@ -1,16 +1,19 @@
-## 🧑🏻‍💻 Hey!
-
-Sou desenvolvedor Front End, trabalhando e conhecendo mais sobre as seguintes tecnologias:
-
-<div>
-  <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" />
-  <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" />
-  <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-plain.svg" />
-  <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" />
+<div style="width: 100%;">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=AC32EB&height=120&section=header" />
 </div>
-<br>
-<p>You can also find me on the following social networks:</p>
-<div>
-  <a style="color: #fff; font-weight: bold" href="https://www.instagram.com/angelo.xtw" target="_blank"><img width="36" height="36" src="https://github.com/devfabricio/devfabricio/blob/main/icons/instagram.png?raw=true" /></a>
-  <a href="https://www.linkedin.com/in/AngeloBelelli" target="_blank" style="color: #fff; font-weight: bold"><img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" /></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AC32EB&size=35&center=true&width=1000&lines=Olá,+Eu+sou+a+Angelo+Belelli;Estou+no+1º+período+de+DDS+WEB;Seja+bem+vindo(a)!!!+:%29)](https://git.io/typing-svg)
+<div align="center">
+    ​​
+    <a href="https://github.com/Angelobelelli/github-readme-stats">
+      <img height= "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Angelobelelli&theme=transparent&rank_icon=github" />
+    </a>
+    <a href="https://github.com/Angelobelelli/convoychat">
+      <img height= "180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Angelobelelli&layout=compact&langs_count=8&theme=transparent" />
+    </a>
+</div>
+
+
+<div style="width: 100%;">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=AC32EB&height=120&section=footer" />
 </div>
