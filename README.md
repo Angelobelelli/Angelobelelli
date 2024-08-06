@@ -52,7 +52,7 @@
 <a href="https://www.instagram.com/angelo.xtw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:angelobelelli.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/angelobelellidev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.rmdeveloper.com.br" target="_blank"><img src="https://img.shields.io/badge/-My_Site-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white"  target="_blank"></a> 
+<a href="https://www.angelobelelli.blog" target="_blank"><img src="https://img.shields.io/badge/-My_Site-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white"  target="_blank"></a> 
 </div>
 &nbsp;
 &nbsp;
