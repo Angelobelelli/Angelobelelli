@@ -1,4 +1,4 @@
-<img align="center" width=100% src="https://github.com/RicardoMouraa/RicardoMouraa/assets/106688139/a23c252f-6a3d-42d8-96a0-0d6a3839fb96"/>
+<img align="center" width=100% src="img.jpg"/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ developing innovative web solutions. <br><br> As a freelance web developer, I specialize in creating websites, landing pages, e-commerce sites, blogs, and more. With a focus on <strong>HTML, CSS, JavaScript, and PHP</strong>, I am <strong>passionate about crafting user-centric experiences</strong> and leveraging technology for high-quality solutions.</p>&nbsp;
