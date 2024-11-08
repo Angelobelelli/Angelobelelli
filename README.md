@@ -1,60 +1,27 @@
-<img align="center" width=100% src="img.jpg"/>
-&nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ developing innovative web solutions. <br><br> As a freelance web developer, I specialize in creating websites, landing pages, e-commerce sites, blogs, and more. With a focus on <strong>HTML, CSS, JavaScript, and PHP</strong>, I am <strong>passionate about crafting user-centric experiences</strong> and leveraging technology for high-quality solutions.</p>&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cccccc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+There!+My+name+is+Diogo+Fernando;I'm+a+Full-Stack+Developer;Welcome+to+my+Github!+:%29)](https://git.io/typing-svg)
 
-<div align="center" style="margin-bottom:100px">
-<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Angelobelelli&theme=dracula&mode=weekly" />
-<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelobelelli&show_icons=true&theme=dracula&layout=compact" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diogofernandoj&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=eeeeee&bg_color=0d1117" alt="Diogo Fernando Github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogofernandoj&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
- 
-&nbsp;
-&nbsp;
 
-## My Skills
-
-### Programming and Development:
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![React Native](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
-
-### Design Tools:
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-
-### E-commerce Platforms:
-
-![Wix](https://img.shields.io/badge/Wix-%230DB0D7.svg?style=for-the-badge&logo=Wix&logoColor=white)&nbsp;
-![Tray](https://img.shields.io/badge/Tray-%23E34F26.svg?style=for-the-badge&logoColor=white)&nbsp;
-![Nuvemshop](https://img.shields.io/badge/Nuvemshop-%23FF6B00.svg?style=for-the-badge&logoColor=white)&nbsp;
-![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=Shopify&logoColor=white)&nbsp;
-
-### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
-![Asana](https://img.shields.io/badge/asana-273347?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href="https://www.instagram.com/angelo.xtw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:angelobelelli.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/angelobelellidev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.angelobelelli.blog" target="_blank"><img src="https://img.shields.io/badge/-My_Site-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white"  target="_blank"></a> 
+<div align="center">
+<a href="https://diogofernandoj.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=&logoColor=" target="_blank"></a>
+<a href = "mailto:diogofernandoj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/diogofernandoj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 </div>
-&nbsp;
-&nbsp;
 
-<p align="center">I'm confident that I can help you bring your project to life!</p>
+<h2> 🛠 &nbsp;Tech Stack</h2>
+
+![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-111111?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111111?style=flat&logo=postgresql)
+![Next.js](https://img.shields.io/badge/-Next.js-111111?style=flat&logo=next.js)
+![Docker](https://img.shields.io/badge/-Docker-111111?style=flat&logo=docker)
+![Prisma](https://img.shields.io/badge/-PrismaORM-111111?style=flat&logo=prisma)
