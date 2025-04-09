@@ -46,7 +46,6 @@
   <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-## 🐍 Snake comendo seus contribs
 
 <picture align="center" >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Angelobelelli/Angelobelelli/output/github-contribution-grid-snake-dark.svg">
