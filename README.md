@@ -1,42 +1,55 @@
-<!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
----
-<div align="center">
-  
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Angelo Belelli
- 👨🏻‍💻 Sou um desenvolvedor front-end apaixonado por tecnologia, sempre buscando soluções criativas e eficientes.<br>
- 🎓 Em formação em programação front-end pela DevQuest<br>
- 🚀 Aprofundando em React, TypeScript e soluções modernas para web<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=36&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ângelo+Belelli+;I'm+17+years+old;I+am+from+Brasil,+CE;)](https://git.io/typing-svg)
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table color=4B0082 align="center">
+  <tr>
+    <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>CSharp
+    </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>        
+ </tr>
+</table>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Angelobelelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Angelobelelli&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelobelelli&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelobelelli&theme=midnight-purple&hide_border=true&layout=compact" width="50%" alt="Angelobelelli github-readme-stats"/> 
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Angelobelelli&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="Angelobelelli github-readme-stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Angelobelelli&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Angelobelelli github-readme-stats"/>
+</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Angelobelelli&bg_color=000000&color=8d43e2&line=8d43e2&point=8d43e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 </div>
 
-
-<!-- Distintivos de Linguagens e Habilidades -->
-<div style="display: inline_block" align="center"><br>
-  <img alt="Angelo-Ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
-  <img alt="Angelo-React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;
-  <img alt="Angelo-Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;
-  <img alt="Angelo-ReactRouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">&nbsp;
-  <img alt="Angelo-ReactHookForm" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">&nbsp;
-  <img alt="Angelo-Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">&nbsp;
-  <img alt="Angelo-NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
-  <img alt="Angelo-MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
-<br>
-
-<!-- Contador de Visitantes -->
-
-
-
-
-
----
-
-<!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
